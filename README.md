@@ -1,6 +1,6 @@
 # flask-app
 ## Live URL
-http://<YOUR-EC2-PUBLIC-IP>
+http://public-ip
 
 ## Tech Stack
 - **App**: Python + Flask + Gunicorn

@@ -51,7 +51,7 @@ flask-deployment/
 
 ---
 
-## 📄 Application Endpoints
+## Application Endpoints
 
 | Endpoint | Description |
 |----------|-------------|
